@@ -1,8 +1,6 @@
-Case #1: 2
-Case #2: 2
-Case #3: 4
-Case #4: 200270762
-Case #5: 347637976
-Case #6: 308727203
-Case #7: 27026173
-Case #8: 123968681
+Case #1: 42
+Case #2: 42
+Case #3: 42
+Case #4: 42
+Case #5: 42
+Case #6: 42
